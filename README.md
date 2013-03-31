@@ -16,7 +16,7 @@ An introduction to the [D3.js](http://d3js.org/) visualization library.
 
 
 #Getting Started
-Download the zip file containing the tutorial files OR clone the project 
+Download the tutorial files [here](https://github.com/morengab/d3sleepinghackers/archive/master.zip) OR by cloning the project.
 
 
 #Setting Up the Canvas
