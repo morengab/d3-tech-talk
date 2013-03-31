@@ -1,7 +1,7 @@
 D3.js Tech Talk
 =================
 
-An introduction to the D3.js visualization library.
+An introduction to the [D3.js](http://d3js.org/) visualization library.
 
 #The Seven Stages of Visualizing Data
 *By Ben Fry*
@@ -15,40 +15,9 @@ An introduction to the D3.js visualization library.
 7. Interact
 
 
-#Getting Started: HTML/CSS/JS Template
-This code should come with the project if you download it directly from this site.
+#Getting Started
+Download the zip file containing the tutorial files OR clone the project 
 
-```javascript
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <title>Visualizing Data with D3.js</title>
-    
-    <!-- Loads the D3.js library -->
-    <script type="text/javascript" src="http://mbostock.github.com/d3/d3.js"></script>
-    <!-- Loads the jQuery Library -->
-    <script type="text/javascript" src="http://code.jquery.com/jquery-1.6.2.min.js"></script> 
-    <!-- Loads the Tipsy (tooltip hover effects) jQuery Plugin -->
-    <script type="text/javascript" src="jquery.tipsy.js"></script>
-    <!-- Loads styles for Tipsy -->
-    <link href="tipsy.css" rel="stylesheet" type="text/css" />
-
-    <style>
-        /* Your styles (CSS) will go in here. */
-        svg {
-            display: block;
-            margin: 200px auto;
-        }
-    </style>
-  </head>
-  <body>
-    <script type="text/javascript">
-        // Your D3.js code will go in here.
-    </script>   
-  </body>
-</html>
-```
 
 #Setting Up the Canvas
 ```javascript
