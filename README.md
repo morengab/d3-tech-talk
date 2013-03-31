@@ -1,7 +1,7 @@
 D3.js Tech Talk
 =================
 
-An introduction to the [D3.js](http://d3js.org/) visualization library.
+An introduction to the [D3.js](http://d3js.org/) visualization library based on Scotty Murray's D3 tutorials.
 
 #The Seven Stages of Visualizing Data
 *By Ben Fry*
